@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Zellij
+Comment=Zellij terminal workspace
+Icon=zellij
+Exec=foot -F --app-id=zellij zellij
+Terminal=false
+Categories=System;TerminalEmulator;
+Keywords=terminal;multiplexer;zellij;
+StartupWMClass=zellij
